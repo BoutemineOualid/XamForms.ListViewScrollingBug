@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A1879635-EF1F-4EDC-80B1-6E219C74A7FD}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamFormsListViewScollBug.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamFormsListViewScollBug/MainPage.xaml">
+    <Files>
+      <File FileName="XamFormsListViewScollBug/MainPage.xaml" Line="14" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamFormsListViewScollBug" expanded="True">
+            <Node name="XamFormsListViewScollBug" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamFormsListViewScollBug.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.031FD7FE-AB4C-4A8B-9F29-F2486A9A0077" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
